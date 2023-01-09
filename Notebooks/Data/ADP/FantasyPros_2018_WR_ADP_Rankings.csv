@@ -1,0 +1,134 @@
+,WR,Overall,Player,AVG
+0,1.0,5.0,Antonio Brown,1.0
+1,2.0,10.0,DeAndre Hopkins,2.0
+2,3.0,12.0,dell Beckham Jr. O,3.0
+3,4.0,14.0,Julio Jones,4.0
+4,5.0,16.0,Michael Thomas,5.3
+5,6.0,18.0,Davante Adams,6.2
+6,7.0,19.0,Keenan Allen,6.7
+7,8.0,22.0,A.J. Green,7.8
+8,9.0,25.0,Mike Evans,9.3
+9,10.0,27.0,Tyreek Hill,10.3
+10,11.0,29.0,Stefon Diggs,12.0
+11,12.0,30.0,T.Y. Hilton,12.2
+12,13.0,32.0,Adam Thielen,12.5
+13,14.0,34.0,Amari Cooper,14.5
+14,15.0,38.0,Doug Baldwin,15.5
+15,16.0,42.0,Larry Fitzgerald,16.5
+16,17.0,41.0,JuJu Smith-Schuster,16.7
+17,18.0,43.0,Jarvis Landry,18.3
+18,19.0,46.0,Brandin Cooks,19.8
+19,20.0,47.0,Demaryius Thomas ,19.8
+20,21.0,50.0,Josh Gordon ,21.3
+21,22.0,52.0,Allen Robinson II,22.2
+22,23.0,54.0,Golden Tate,22.5
+23,24.0,53.0,Marvin Jones Jr.,23.5
+24,25.0,55.0,Chris Hogan,24.7
+25,26.0,65.0,Corey Davis,28.0
+26,27.0,68.0,Michael Crabtree,28.7
+27,28.0,73.0,Alshon Jeffery,29.3
+28,29.0,64.0,Marquise Goodwin,30.5
+29,30.0,75.0,Emmanuel Sanders ,31.7
+30,31.0,71.0,Julian Edelman ,31.8
+31,32.0,77.0,William Fuller V ,32.2
+32,33.0,80.0,Sammy Watkins,33.7
+33,34.0,86.0,Robert Woods,34.2
+34,35.0,85.0,Devin Funchess,35.0
+35,36.0,87.0,Cooper Kupp,35.3
+36,37.0,84.0,Jordy Nelson,35.7
+37,38.0,98.0,Pierre Garcon ,36.3
+38,39.0,95.0,Robbie Anderson,38.3
+39,40.0,104.0,Randall Cobb,39.3
+40,41.0,105.0,Jamison Crowder,40.2
+41,42.0,103.0,Nelson Agholor,41.3
+42,43.0,108.0,Sterling Shepard,43.5
+43,44.0,113.0,Kelvin Benjamin,44.7
+44,45.0,115.0,Kenny Stills,45.5
+45,46.0,119.0,DeVante Parker,46.0
+46,47.0,118.0,Calvin Ridley,48.5
+47,48.0,121.0,Allen Hurns,49.5
+48,49.0,128.0,DJ Moore,51.5
+49,50.0,123.0,Mike Williams,51.8
+50,51.0,143.0,Kenny Golladay,54.3
+51,52.0,142.0,Michael Gallup,54.5
+52,53.0,145.0,Josh Doctson,56.5
+53,54.0,151.0,Mohamed Sanu Sr.,56.8
+54,55.0,148.0,Tyler Lockett,57.5
+55,56.0,165.0,Rishard Matthews,60.2
+56,57.0,158.0,John Brown,62.2
+57,58.0,162.0,Anthony Miller,62.8
+58,59.0,131.0,Keelan Cole Sr.,52.2
+59,60.0,169.0,Dede Westbrook,64.5
+60,61.0,178.0,Cameron Meredith ,57.8
+61,62.0,189.0,DeSean Jackson,58.2
+62,63.0,182.0,Courtland Sutton,70.3
+63,64.0,161.0,Chris Godwin,62.4
+64,65.0,199.0,Ted Ginn Jr.,62.8
+65,66.0,197.0,Martavis Bryant ,63.0
+66,67.0,175.0,Tyrell Williams,65.0
+67,68.0,174.0,Geronimo Allison ,65.2
+68,69.0,214.0,Dez Bryant ,53.5
+69,70.0,202.0,Paul Richardson Jr. ,66.6
+70,71.0,204.0,John Ross,67.4
+71,72.0,219.0,Marqise Lee ,56.0
+72,73.0,209.0,Christian Kirk,69.0
+73,74.0,217.0,Danny Amendola,70.2
+74,75.0,216.0,Donte Moncrief,73.5
+75,76.0,243.0,Cole Beasley,75.3
+76,77.0,233.0,James Washington,75.3
+77,78.0,253.0,Mike Wallace ,81.8
+78,79.0,264.0,Terrance Williams,84.8
+79,80.0,276.0,Jermaine Kearse,86.8
+80,81.0,239.0,Phillip Dorsett II,76.3
+81,82.0,265.0,Ryan Grant ,80.7
+82,83.0,247.0,Tre'Quan Smith,83.3
+83,84.0,257.0,Quincy Enunwa,86.7
+84,85.0,255.0,Brandon Marshall,86.7
+85,86.0,259.0,Taywan Taylor,88.3
+86,87.0,271.0,Travis Benjamin,90.0
+87,88.0,269.0,Cordarrelle Patterson,92.0
+88,89.0,277.0,Terrelle Pryor Sr.,83.5
+89,90.0,282.0,Albert Wilson,85.5
+90,91.0,284.0,Antonio Callaway,97.0
+91,92.0,289.0,Tavon Austin,86.5
+92,93.0,288.0,Zay Jones,86.5
+93,94.0,290.0,Kevin White,88.5
+94,95.0,292.0,Corey Coleman,88.5
+95,96.0,286.0,Dante Pettis,92.5
+96,97.0,308.0,Willie Snead IV,97.5
+97,98.0,306.0,Jordan Matthews,77.0
+98,99.0,314.0,J'Mon Moore,100.0
+99,100.0,321.0,Adam Humphries,107.0
+100,101.0,310.0,Jaron Brown,101.0
+101,102.0,317.0,Laquon Treadwell,101.5
+102,103.0,316.0,DJ Chark Jr.,102.0
+103,104.0,322.0,Pharoh Cooper,90.0
+104,105.0,323.0,Keke Coutee,104.5
+105,106.0,327.0,Torrey Smith,106.5
+106,107.0,329.0,Trent Taylor,106.5
+107,108.0,326.0,Chester Rogers,95.0
+108,109.0,380.0,Jake Kumerow,100.0
+109,110.0,332.0,Brandon Zylstra,100.0
+110,111.0,342.0,Chad Williams,109.5
+111,112.0,341.0,J.J. Nelson,109.5
+112,113.0,344.0,Rashard Higgins,111.5
+113,114.0,384.0,Bruce Ellington,104.0
+114,115.0,348.0,Curtis Samuel,111.5
+115,116.0,351.0,Brice Butler,112.5
+116,117.0,359.0,Jeremy Maclin ,113.0
+117,118.0,361.0,Tyler Boyd,115.0
+118,119.0,358.0,Taylor Gabriel,113.5
+119,120.0,414.0,Marquez Valdes-Scantling,116.0
+120,121.0,371.0,Cody Latimer,117.0
+121,122.0,409.0,DaeSean Hamilton,123.5
+122,123.0,376.0,Brandon LaFell ,118.0
+123,124.0,377.0,Malcolm Mitchell,119.0
+124,125.0,379.0,Equanimeous St. Brown,122.0
+125,126.0,381.0,Javon Wims,124.0
+126,127.0,385.0,Kendall Wright,125.0
+127,128.0,392.0,David Moore,126.0
+128,129.0,400.0,Deonte Thompson,127.0
+129,130.0,405.0,Bennie Fowler III,128.0
+130,131.0,406.0,Seth Roberts,129.0
+131,,,,
+132,,,,

@@ -1,0 +1,111 @@
+,WR,Overall,Player,AVG
+0,1.0,6.0,Michael Thomas,1.0
+1,2.0,11.0,Davante Adams,2.3
+2,3.0,13.0,Tyreek Hill,3.0
+3,4.0,16.0,Julio Jones,3.8
+4,5.0,20.0,DeAndre Hopkins,5.0
+5,6.0,23.0,Chris Godwin,6.0
+6,7.0,25.0,Kenny Golladay,7.3
+7,8.0,26.0,Mike Evans,7.8
+8,9.0,29.0,Amari Cooper,10.5
+9,10.0,33.0,Adam Thielen,11.3
+10,11.0,34.0,JuJu Smith-Schuster,12.0
+11,12.0,30.0,dell Beckham Jr. O,12.3
+12,13.0,36.0,Cooper Kupp,12.3
+13,14.0,42.0,Calvin Ridley,14.5
+14,15.0,37.0,A.J. Brown,15.3
+15,16.0,38.0,Allen Robinson II,15.5
+16,17.0,45.0,DJ Moore,16.0
+17,18.0,49.0,Tyler Lockett,18.3
+18,19.0,52.0,Robert Woods,19.8
+19,20.0,48.0,DK Metcalf,20.0
+20,21.0,56.0,Keenan Allen,21.0
+21,22.0,55.0,Courtland Sutton,23.0
+22,23.0,57.0,Stefon Diggs,23.3
+23,24.0,61.0,Terry McLaurin,24.3
+24,25.0,58.0,DJ Chark Jr.,24.5
+25,26.0,63.0,T.Y. Hilton,25.0
+26,27.0,62.0,DeVante Parker,27.0
+27,28.0,67.0,A.J. Green,27.8
+28,29.0,69.0,Marquise Brown,28.8
+29,30.0,70.0,Michael Gallup,30.0
+30,31.0,73.0,Jarvis Landry,31.3
+31,32.0,78.0,Tyler Boyd,32.3
+32,33.0,77.0,William Fuller V ,33.3
+33,34.0,80.0,Julian Edelman,33.5
+34,35.0,83.0,Brandin Cooks,34.8
+35,36.0,86.0,Deebo Samuel,35.3
+36,37.0,92.0,Marvin Jones Jr.,36.5
+37,38.0,96.0,CeeDee Lamb,38.3
+38,39.0,98.0,Emmanuel Sanders,42.3
+39,40.0,108.0,Jerry Jeudy,42.3
+40,41.0,110.0,Diontae Johnson,42.8
+41,42.0,106.0,Christian Kirk,42.8
+42,43.0,102.0,Darius Slayton,43.0
+43,44.0,112.0,Sterling Shepard,44.3
+44,45.0,121.0,Henry Ruggs III,46.0
+45,46.0,116.0,John Brown,46.3
+46,47.0,115.0,Mecole Hardman,47.5
+47,48.0,126.0,Jamison Crowder,48.3
+48,49.0,123.0,Justin Jefferson,49.3
+49,50.0,138.0,Preston Williams,51.0
+50,51.0,133.0,Golden Tate,52.3
+51,52.0,141.0,DeSean Jackson,52.5
+52,53.0,131.0,Anthony Miller,52.5
+53,54.0,142.0,Sammy Watkins,53.0
+54,55.0,144.0,Mike Williams,50.0
+55,56.0,150.0,Robbie Anderson,56.0
+56,57.0,169.0,Allen Lazard,57.8
+57,58.0,164.0,Jalen Reagor,55.3
+58,59.0,163.0,N'Keal Harry,58.8
+59,60.0,161.0,Breshad Perriman,58.0
+60,61.0,165.0,Alshon Jeffery,54.5
+61,62.0,178.0,Michael Pittman Jr.,62.0
+62,63.0,214.0,Hunter Renfrow,59.5
+63,64.0,174.0,Curtis Samuel,59.5
+64,65.0,205.0,Brandon Aiyuk,66.3
+65,66.0,190.0,Bryan Edwards,64.0
+66,67.0,216.0,Larry Fitzgerald,67.7
+67,68.0,209.0,Denzel Mims,63.0
+68,69.0,246.0,Laviska Shenault Jr.,73.0
+69,70.0,217.0,John Ross,66.0
+70,71.0,218.0,Dede Westbrook ,67.0
+71,72.0,223.0,Parris Campbell,71.0
+72,73.0,220.0,Tee Higgins,69.0
+73,74.0,221.0,James Washington,70.0
+74,75.0,222.0,Antonio Brown,71.0
+75,76.0,224.0,Kendrick Bourne,72.0
+76,77.0,225.0,Corey Davis,73.0
+77,78.0,236.0,Kenny Stills,78.0
+78,79.0,239.0,Josh Gordon,79.0
+79,80.0,243.0,Randall Cobb,80.0
+80,81.0,244.0,Devin Duvernay,81.0
+81,82.0,253.0,Cole Beasley,83.0
+82,83.0,260.0,Mohamed Sanu Sr.,84.0
+83,84.0,263.0,Chase Claypool,85.0
+84,85.0,264.0,Josh Reynolds,86.0
+85,86.0,265.0,Andy Isabella,87.0
+86,87.0,272.0,Tre'Quan Smith,88.0
+87,88.0,279.0,KJ Hamler,89.0
+88,89.0,280.0,Chris Conley,90.0
+89,90.0,285.0,Danny Amendola,92.0
+90,91.0,288.0,Miles Boykin,93.0
+91,92.0,293.0,Zach Pascal,94.0
+92,93.0,297.0,Auden Tate,95.0
+93,94.0,300.0,Phillip Dorsett II,96.0
+94,95.0,303.0,Steven Sims Jr.,98.0
+95,96.0,304.0,Marquez Valdes-Scantling,99.0
+96,97.0,305.0,Nelson Agholor,100.0
+97,98.0,309.0,Demarcus Robinson,101.0
+98,99.0,310.0,J.J. Arcega-Whiteside,102.0
+99,100.0,314.0,Van Jefferson,103.0
+100,101.0,315.0,Adam Humphries,104.0
+101,102.0,317.0,Russell Gage,105.0
+102,103.0,323.0,David Moore,106.0
+103,104.0,331.0,Cordarrelle Patterson,107.0
+104,105.0,333.0,Scotty Miller,108.0
+105,106.0,342.0,Quintez Cephus,109.0
+106,107.0,343.0,Gabe Davis,111.0
+107,108.0,347.0,John Hightower,112.0
+108,,,,
+109,,,,

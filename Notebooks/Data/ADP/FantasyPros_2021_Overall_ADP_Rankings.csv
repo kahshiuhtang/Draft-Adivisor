@@ -11,7 +11,7 @@
 9,10.0,Saquon Barkley,RB9,10.0
 10,11.0,Tyreek Hill,WR2,11.0
 11,12.0,Travis Kelce,TE1,11.3
-12,13.0,Patrick Mahomes II,QB1,14.3
+12,13.0,Patrick Mahomes,QB1,14.3
 13,14.0,Najee Harris,RB10,14.3
 14,15.0,Austin Ekeler,RB11,14.5
 15,16.0,Stefon Diggs,WR3,16.3
@@ -36,7 +36,7 @@
 34,35.0,Miles Sanders,RB19,35.5
 35,36.0,CeeDee Lamb,WR12,36.5
 36,37.0,Kyler Murray,QB3,36.8
-37,38.0,Allen Robinson II,WR13,38.0
+37,38.0,Allen Robinson,WR13,38.0
 38,39.0,D'Andre Swift,RB20,38.8
 39,40.0,Lamar Jackson,QB4,40.3
 40,41.0,Chris Godwin,WR14,42.3
@@ -68,13 +68,13 @@
 66,67.0,Chase Claypool,WR24,68.0
 67,68.0,Tom Brady,QB9,68.8
 68,69.0,Odell Beckham Jr.,WR25,68.8
-69,70.0,Melvin Gordon III,RB30,70.5
+69,70.0,Melvin Gordon,RB30,70.5
 70,71.0,Ja'Marr Chase,WR26,71.0
 71,72.0,Tee Higgins,WR27,71.0
 72,73.0,Michael Thomas,WR28,72.3
 73,74.0,Kenny Golladay,WR29,76.0
 74,75.0,Jerry Jeudy,WR30,76.5
-75,76.0,Ronald Jones II,RB31,76.8
+75,76.0,Ronald Jones,RB31,76.8
 76,77.0,JuJu Smith-Schuster,WR31,77.8
 77,78.0,Trey Sermon,RB32,78.8
 78,79.0,Leonard Fournette,RB33,79.8
@@ -118,14 +118,14 @@
 116,117.0,Mike Williams,WR45,118.0
 117,118.0,Washington Commanders,DST4,119.0
 118,119.0,Marquez Callaway,WR46,119.3
-119,120.0,William Fuller V,WR47,120.0
+119,120.0,William Fuller,WR47,120.0
 120,121.0,Harrison Butker,K2,121.0
 121,122.0,Baltimore Ravens,DST5,123.0
 122,123.0,Mecole Hardman,WR48,124.0
 123,124.0,Marquise Brown,WR49,126.5
 124,125.0,Michael Gallup,WR50,127.0
 125,126.0,Tony Pollard,RB43,128.8
-126,127.0,Henry Ruggs III ,WR51,129.0
+126,127.0,Henry Ruggs,WR51,129.0
 127,128.0,Trevor Lawrence,QB14,129.8
 128,129.0,Matt Ryan,QB15,130.3
 129,130.0,Baker Mayfield,QB16,131.5
@@ -167,7 +167,7 @@
 165,166.0,Greg Zuerlein,K8,176.5
 166,167.0,Elijah Moore,WR60,146.3
 167,168.0,Ryan Fitzpatrick ,QB24,180.5
-168,169.0,Mark Ingram II,RB52,183.8
+168,169.0,Mark Ingram,RB52,183.8
 169,170.0,James White ,RB53,183.8
 170,171.0,Cleveland Browns,DST11,185.0
 171,172.0,Hunter Henry,TE16,154.0
@@ -227,7 +227,7 @@
 225,226.0,Arizona Cardinals,DST17,219.5
 226,227.0,Salvon Ahmed,RB68,220.5
 227,228.0,Carlos Hyde ,RB69,220.5
-228,229.0,Todd Gurley II,RB70,220.5
+228,229.0,Todd Gurley,RB70,220.5
 229,230.0,Blake Jarwin,TE23,222.5
 230,231.0,Cole Kmet,TE24,223.0
 231,232.0,Adam Trautman,TE25,226.0
@@ -261,7 +261,7 @@
 259,260.0,Xavier Jones,RB82,305.0
 260,261.0,Carolina Panthers,DST21,257.5
 261,262.0,New Orleans Saints,DST22,252.5
-262,263.0,Chris Herndon IV,TE30,225.0
+262,263.0,Chris Herndon,TE30,225.0
 263,264.0,Darius Slayton,WR84,226.0
 264,265.0,Sam Darnold,QB30,255.0
 265,266.0,Juwan Johnson,TE31,234.0
@@ -309,7 +309,7 @@
 307,308.0,Drew Anderson,QB37,273.0
 308,309.0,Denzel Mims,WR98,274.0
 309,310.0,Cole McDonald,QB38,274.0
-310,311.0,Willie Snead IV,WR99,275.0
+310,311.0,Willie Snead,WR99,275.0
 311,312.0,Dee Eskridge,WR100,275.0
 312,313.0,Darrin Hall,RB92,276.0
 313,314.0,Dalton Schultz,TE42,277.0
@@ -331,7 +331,7 @@
 329,330.0,Olamide Zaccheaus,WR105,292.0
 330,331.0,Jalen Richard,RB97,294.0
 331,332.0,Hunter Renfrow,WR106,296.0
-332,333.0,Larry Rountree III,RB98,298.0
+332,333.0,Larry Rountree,RB98,298.0
 333,334.0,Jimmy Garoppolo,QB42,300.0
 334,335.0,Samaje Perine,RB99,302.0
 335,336.0,Travis Fulgham,WR107,303.0

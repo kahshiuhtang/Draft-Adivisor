@@ -1,7 +1,7 @@
 ,Rank,Player,POS,AVG
 0,1.0,Antonio Brown,WR1,1.0
 1,2.0,Odell Beckham Jr.,WR2,2.7
-2,3.0,Todd Gurley II,RB1,3.5
+2,3.0,Todd Gurley,RB1,3.5
 3,4.0,Julio Jones,WR3,4.3
 4,5.0,David Johnson,RB2,4.5
 5,6.0,Adrian Peterson,RB3,6.3
@@ -13,13 +13,13 @@
 11,12.0,Lamar Miller,RB6,12.0
 12,13.0,Devonta Freeman,RB7,13.2
 13,14.0,Dez Bryant,WR6,15.0
-14,15.0,Allen Robinson II,WR7,15.0
+14,15.0,Allen Robinson,WR7,15.0
 15,16.0,Jordy Nelson,WR8,16.7
 16,17.0,Cam Newton,QB1,18.8
 17,18.0,Brandon Marshall,WR9,20.5
 18,19.0,Mike Evans,WR10,21.2
 19,20.0,Eddie Lacy,RB8,21.7
-20,21.0,Mark Ingram II,RB9,22.2
+20,21.0,Mark Ingram,RB9,22.2
 21,22.0,Jamaal Charles,RB10,22.5
 22,23.0,LeSean McCoy,RB11,23.2
 23,24.0,Doug Martin,RB12,23.5
@@ -58,7 +58,7 @@
 56,57.0,Ryan Mathews,RB21,59.8
 57,58.0,Michael Floyd,WR27,60.8
 58,59.0,Delanie Walker,TE5,61.5
-59,60.0,Melvin Gordon III,RB22,61.7
+59,60.0,Melvin Gordon,RB22,61.7
 60,61.0,Jeremy Langford,RB23,62.2
 61,62.0,Carson Palmer,QB7,62.3
 62,63.0,Tom Brady,QB8,62.5
@@ -107,7 +107,7 @@
 105,106.0,Kevin White,WR41,108.5
 106,107.0,Jimmy Graham,TE12,112.0
 107,108.0,Kirk Cousins,QB13,112.5
-108,109.0,Willie Snead IV,WR42,114.0
+108,109.0,Willie Snead,WR42,114.0
 109,110.0,Houston Texans,DST5,114.5
 110,111.0,Jameis Winston,QB14,114.7
 111,112.0,Tavon Austin,WR43,114.7
@@ -153,7 +153,7 @@
 151,152.0,Ted Ginn Jr.,WR52,160.3
 152,153.0,Darren Sproles,RB49,162.0
 153,154.0,Alfred Morris,RB50,162.3
-154,155.0,William Fuller V,WR53,163.2
+154,155.0,William Fuller,WR53,163.2
 155,156.0,Jared Cook,TE16,163.7
 156,157.0,Steve Smith,WR54,165.0
 157,158.0,Chandler Catanzaro,K8,166.3
@@ -171,7 +171,7 @@
 169,170.0,Pittsburgh Steelers,DST10,152.6
 170,171.0,Blair Walsh,K11,180.0
 171,172.0,Sebastian Janikowski,K12,180.2
-172,173.0,Robert Griffin III,QB24,180.2
+172,173.0,Robert Griffin,QB24,180.2
 173,174.0,Ladarius Green,TE18,156.0
 174,175.0,Jerick McKinnon,RB53,183.2
 175,176.0,Cairo Santos,K13,184.3
@@ -205,7 +205,7 @@
 203,204.0,Joe Flacco,QB28,194.0
 204,205.0,Austin Seferian-Jenkins,TE21,194.2
 205,206.0,Karlos Williams,RB62,168.3
-206,207.0,Phillip Dorsett II,WR67,195.2
+206,207.0,Phillip Dorsett,WR67,195.2
 207,208.0,Rishard Matthews,WR68,195.8
 208,209.0,Richard Rodgers,TE22,196.8
 209,210.0,Baltimore Ravens,DST17,198.2

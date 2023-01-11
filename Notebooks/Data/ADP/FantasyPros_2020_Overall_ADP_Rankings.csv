@@ -12,7 +12,7 @@
 10,11.0,Davante Adams,WR2,12.3
 11,12.0,Josh Jacobs,RB10,12.3
 12,13.0,Tyreek Hill,WR3,13.7
-13,14.0,Patrick Mahomes II,QB1,15.0
+13,14.0,Patrick Mahomes,QB1,15.0
 14,15.0,Aaron Jones,RB11,15.3
 15,16.0,Julio Jones,WR4,16.3
 16,17.0,Lamar Jackson,QB2,17.3
@@ -25,7 +25,7 @@
 23,24.0,George Kittle,TE2,23.3
 24,25.0,Kenny Golladay,WR7,24.3
 25,26.0,Mike Evans,WR8,25.7
-26,27.0,Todd Gurley II,RB15,28.7
+26,27.0,Todd Gurley,RB15,28.7
 27,28.0,Chris Carson,RB16,30.0
 28,29.0,Amari Cooper,WR9,31.0
 29,30.0,dell Beckham Jr. O,WR10,34.0
@@ -36,12 +36,12 @@
 34,35.0,James Conner,RB19,36.3
 35,36.0,Cooper Kupp,WR13,38.3
 36,37.0,A.J. Brown,WR14,38.7
-37,38.0,Allen Robinson II,WR15,39.7
+37,38.0,Allen Robinson,WR15,39.7
 38,39.0,Mark Andrews,TE3,40.0
 39,40.0,Leonard Fournette,RB20,41.3
-40,41.0,Melvin Gordon III,RB21,41.7
+40,41.0,Melvin Gordon,RB21,41.7
 41,42.0,Calvin Ridley,WR16,41.7
-42,43.0,Mark Ingram II,RB22,42.0
+42,43.0,Mark Ingram,RB22,42.0
 43,44.0,Le'Veon Bell,RB23,43.7
 44,45.0,DJ Moore,WR17,44.7
 45,46.0,Raheem Mostert,RB24,45.3
@@ -77,7 +77,7 @@
 75,76.0,Aaron Rodgers,QB9,80.7
 76,77.0,William Fuller V ,WR32,81.0
 77,78.0,Tyler Boyd,WR33,81.3
-78,79.0,Ronald Jones II,RB30,81.7
+78,79.0,Ronald Jones,RB30,81.7
 79,80.0,Julian Edelman,WR34,81.7
 80,81.0,Tom Brady,QB10,82.3
 81,82.0,Josh Allen,QB11,82.3
@@ -119,7 +119,7 @@
 117,118.0,Alexander Mattison,RB43,121.7
 118,119.0,Noah Fant,TE13,121.7
 119,120.0,Baltimore Ravens,DST3,122.0
-120,121.0,Henry Ruggs III,WR47,122.0
+120,121.0,Henry Ruggs,WR47,122.0
 121,122.0,Baker Mayfield,QB16,122.3
 122,123.0,Justin Jefferson,WR48,125.3
 123,124.0,Antonio Gibson,RB44,130.7
@@ -178,8 +178,8 @@
 176,177.0,Rashaad Penny,RB57,170.0
 177,178.0,Michael Pittman Jr.,WR63,171.0
 178,179.0,Darrel Williams,RB58,171.5
-179,180.0,Chris Herndon IV,TE21,171.5
-180,181.0,Gardner Minshew II,QB24,173.5
+179,180.0,Chris Herndon,TE21,171.5
+180,181.0,Gardner Minshew,QB24,173.5
 181,182.0,Drew Lock,QB25,175.0
 182,183.0,Jamaal Williams,RB59,175.5
 183,184.0,Ryquell Armstead ,RB60,180.0
@@ -298,7 +298,7 @@
 296,297.0,Auden Tate,WR94,298.0
 297,298.0,Jason Sanders,K23,299.0
 298,299.0,Peyton Barber,RB86,300.0
-299,300.0,Phillip Dorsett II,WR95,301.0
+299,300.0,Phillip Dorsett,WR95,301.0
 300,301.0,Josh Lambo ,K24,302.0
 301,302.0,Tua Tagovailoa,QB34,304.0
 302,303.0,Steven Sims Jr.,WR96,305.0

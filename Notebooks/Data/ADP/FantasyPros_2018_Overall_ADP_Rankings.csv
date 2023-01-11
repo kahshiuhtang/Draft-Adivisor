@@ -1,5 +1,5 @@
 ,Rank,Player,POS,AVG
-0,1.0,Todd Gurley II,RB1,1.0
+0,1.0,Todd Gurley,RB1,1.0
 1,2.0,Le'Veon Bell ,RB2,2.2
 2,3.0,David Johnson,RB3,3.2
 3,4.0,Ezekiel Elliott,RB4,3.6
@@ -9,7 +9,7 @@
 7,8.0,Leonard Fournette,RB7,8.4
 8,9.0,Kareem Hunt,RB8,9.0
 9,10.0,DeAndre Hopkins,WR2,10.2
-10,11.0,Melvin Gordon III,RB9,10.4
+10,11.0,Melvin Gordon,RB9,10.4
 11,12.0,dell Beckham Jr. O,WR3,12.0
 12,13.0,Dalvin Cook,RB10,13.6
 13,14.0,Julio Jones,WR4,14.4
@@ -49,8 +49,8 @@
 47,48.0,Russell Wilson,QB4,49.4
 48,49.0,Jimmy Graham,TE4,50.2
 49,50.0,Josh Gordon ,WR21,50.8
-50,51.0,Mark Ingram II,RB22,52.0
-51,52.0,Allen Robinson II,WR22,54.2
+50,51.0,Mark Ingram,RB22,52.0
+51,52.0,Allen Robinson,WR22,54.2
 52,53.0,Marvin Jones Jr.,WR23,54.6
 53,54.0,Golden Tate,WR24,54.8
 54,55.0,Chris Hogan,WR25,57.4
@@ -97,7 +97,7 @@
 95,96.0,Marlon Mack,RB36,95.2
 96,97.0,Peyton Barber,RB37,97.2
 97,98.0,Pierre Garcon ,WR39,97.8
-98,99.0,Ronald Jones II,RB38,100.4
+98,99.0,Ronald Jones,RB38,100.4
 99,100.0,Matt Ryan,QB13,102.2
 100,101.0,Philip Rivers,QB14,103.2
 101,102.0,Adrian Peterson,RB39,103.6
@@ -108,7 +108,7 @@
 106,107.0,Jared Goff,QB15,111.6
 107,108.0,Sterling Shepard,WR43,112.4
 108,109.0,David Njoku,TE11,114.2
-109,110.0,Patrick Mahomes II,QB16,114.6
+109,110.0,Patrick Mahomes,QB16,114.6
 110,111.0,Aaron Jones,RB41,115.4
 111,112.0,Nick Chubb,RB42,118.8
 112,113.0,Kelvin Benjamin,WR44,118.8
@@ -237,7 +237,7 @@
 235,236.0,Baker Mayfield,QB28,221.7
 236,237.0,Cleveland Browns,DST19,222.7
 237,238.0,Green Bay Packers,DST20,227.7
-238,239.0,Phillip Dorsett II,WR77,229.0
+238,239.0,Phillip Dorsett,WR77,229.0
 239,240.0,Dallas Cowboys,DST21,229.7
 240,241.0,Detroit Lions,DST22,231.3
 241,242.0,Sam Bradford,QB29,233.0
@@ -306,7 +306,7 @@
 304,305.0,Corey Grant ,RB82,290.0
 305,306.0,Jordan Matthews,WR96,214.0
 306,307.0,San Francisco 49ers,DST27,291.5
-307,308.0,Willie Snead IV,WR97,293.0
+307,308.0,Willie Snead,WR97,293.0
 308,309.0,Josh McCown,QB38,295.0
 309,310.0,Jaron Brown,WR98,295.5
 310,311.0,AJ McCarron,QB39,295.5
@@ -336,7 +336,7 @@
 334,335.0,Boston Scott,RB88,318.0
 335,336.0,J.D. McKissic,RB89,319.5
 336,337.0,Charles Sims,RB90,274.0
-337,338.0,Chris Warren III,RB91,275.0
+337,338.0,Chris Warren,RB91,275.0
 338,339.0,Rico Gathers,TE41,322.0
 339,340.0,Alfred Blue,RB92,323.5
 340,341.0,J.J. Nelson,WR109,324.0
@@ -403,7 +403,7 @@
 401,402.0,Derek Carrier,TE52,354.0
 402,403.0,Justin Jackson,RB117,354.0
 403,404.0,Akrum Wadley,RB118,355.0
-404,405.0,Bennie Fowler III,WR127,356.0
+404,405.0,Bennie Fowler,WR127,356.0
 405,406.0,Seth Roberts,WR128,358.0
 406,407.0,Tim Tebow,TE53,359.0
 407,408.0,Jeff Heuerman ,TE54,360.0
@@ -416,7 +416,7 @@
 414,415.0,Stephen Anderson,TE55,371.0
 415,416.0,Ed Dickson,TE56,373.0
 416,417.0,Jacoby Brissett,QB45,374.0
-417,418.0,Chris Herndon IV,TE57,376.0
+417,418.0,Chris Herndon,TE57,376.0
 418,419.0,Jeremy McNichols,RB120,377.0
 419,420.0,Seth DeValve,TE58,379.0
 420,0.0,0,0,0.0

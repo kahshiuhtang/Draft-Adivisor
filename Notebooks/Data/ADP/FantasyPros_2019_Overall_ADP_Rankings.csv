@@ -9,8 +9,8 @@
 7,8.0,Davante Adams,WR2,9.0
 8,9.0,David Johnson,RB7,9.3
 9,10.0,Nick Chubb,RB8,10.5
-10,11.0,Todd Gurley II,RB9,11.8
-11,12.0,Patrick Mahomes II,QB1,12.0
+10,11.0,Todd Gurley,RB9,11.8
+11,12.0,Patrick Mahomes,QB1,12.0
 12,13.0,Michael Thomas,WR3,12.8
 13,14.0,Julio Jones,WR4,13.0
 14,15.0,Dalvin Cook,RB10,16.3
@@ -39,14 +39,14 @@
 37,38.0,David Montgomery,RB20,39.0
 38,39.0,Marlon Mack,RB21,39.0
 39,40.0,Brandin Cooks,WR14,39.3
-40,41.0,Mark Ingram II,RB22,42.5
+40,41.0,Mark Ingram,RB22,42.5
 41,42.0,Robert Woods,WR15,43.3
 42,43.0,Julian Edelman,WR16,44.0
 43,44.0,Sony Michel,RB23,44.8
 44,45.0,T.Y. Hilton,WR17,45.3
 45,46.0,Tyler Lockett,WR18,45.5
 46,47.0,Aaron Rodgers,QB3,46.5
-47,48.0,Melvin Gordon III,RB24,47.5
+47,48.0,Melvin Gordon,RB24,47.5
 48,49.0,Kenny Golladay,WR19,48.5
 49,50.0,Chris Godwin,WR20,49.0
 50,51.0,Cooper Kupp,WR21,50.5
@@ -75,11 +75,11 @@
 73,74.0,Kenyan Drake,RB32,74.0
 74,75.0,Jared Cook,TE7,74.3
 75,76.0,Tarik Cohen,RB33,74.5
-76,77.0,Allen Robinson II,WR30,75.3
+76,77.0,Allen Robinson,WR30,75.3
 77,78.0,Robbie Anderson,WR31,77.3
 78,79.0,Jared Goff,QB8,79.0
 79,80.0,Dede Westbrook,WR32,80.0
-80,81.0,William Fuller V,WR33,81.3
+80,81.0,William Fuller, WR33,81.3
 81,82.0,Russell Wilson,QB9,83.0
 82,83.0,Latavius Murray,RB34,85.3
 83,84.0,Chicago Bears,DST1,89.0
@@ -147,7 +147,7 @@
 145,146.0,Golden Tate,WR54,148.5
 146,147.0,Greg Olsen,TE15,151.3
 147,148.0,Justice Hill,RB51,151.5
-148,149.0,Ronald Jones II,RB52,152.5
+148,149.0,Ronald Jones,RB52,152.5
 149,150.0,Jimmy Garoppolo,QB20,154.3
 150,151.0,Carlos Hyde,RB53,155.5
 151,152.0,Trey Burton ,TE16,156.3
@@ -217,7 +217,7 @@
 215,216.0,Matt Bryant,K13,250.3
 216,217.0,Jason Myers,K14,228.0
 217,218.0,Brett Maher,K15,228.3
-218,219.0,Chris Herndon IV ,TE24,196.0
+218,219.0,Chris Herndon,TE24,196.0
 219,220.0,Green Bay Packers,DST19,231.0
 220,221.0,Adam Humphries,WR73,200.5
 221,222.0,J.J. Arcega-Whiteside,WR74,201.0
@@ -247,7 +247,7 @@
 245,246.0,Ted Ginn Jr.,WR82,248.5
 246,247.0,Quincy Enunwa ,WR83,246.5
 247,248.0,Kelvin Harmon,WR84,196.0
-248,249.0,Willie Snead IV,WR85,249.0
+248,249.0,Willie Snead,WR85,249.0
 249,250.0,Trayveon Williams,RB72,200.0
 250,251.0,Andy Dalton,QB28,250.0
 251,252.0,Mike Gesicki,TE28,250.5
@@ -304,9 +304,9 @@
 302,303.0,Jay Ajayi,RB82,274.0
 303,304.0,Stephen Hauschka,K25,322.5
 304,305.0,Daniel Carlson,K26,324.0
-305,306.0,Bruce Anderson III,RB83,276.0
+305,306.0,Bruce Anderson,RB83,276.0
 306,307.0,Miami Dolphins,DST30,317.0
-307,308.0,Phillip Dorsett II,WR106,308.5
+307,308.0,Phillip Dorsett,WR106,308.5
 308,309.0,Theo Riddick,RB84,279.0
 309,310.0,Ian Thomas,TE34,280.0
 310,311.0,Travis Benjamin,WR107,281.0
@@ -376,7 +376,7 @@
 374,375.0,Jason Sanders,K31,365.0
 375,376.0,Manasseh Garner,TE44,366.0
 376,377.0,Demetrius Harris,TE45,368.0
-377,378.0,Felton Davis III,WR129,374.0
+377,378.0,Felton Davis,WR129,374.0
 378,379.0,Ty Johnson,RB103,375.0
 379,380.0,Greg Joseph,K32,376.0
 380,381.0,James 'Shaughnessy,TE46,377.0

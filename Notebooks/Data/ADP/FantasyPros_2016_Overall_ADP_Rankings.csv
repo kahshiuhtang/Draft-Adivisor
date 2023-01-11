@@ -80,14 +80,14 @@
 78,79.0,Danny Woodhead,RB29,83.7
 79,80.0,Denver Broncos,DST1,84.5
 80,81.0,Michael Crabtree,WR34,86.7
-81,82.0,Duke Johnson Jr.,RB30,87.2
+81,82.0,Duke Johnson,RB30,87.2
 82,83.0,Philip Rivers,QB11,87.3
 83,84.0,Chris Ivory,RB31,87.3
 84,85.0,Tyler Lockett,WR35,88.2
 85,86.0,Rashad Jennings,RB32,89.3
 86,87.0,DeAngelo Williams,RB33,90.2
 87,88.0,Seattle Seahawks,DST2,90.3
-88,89.0,Marvin Jones Jr.,WR36,92.0
+88,89.0,Marvin Jones,WR36,92.0
 89,90.0,Tyler Eifert ,TE8,95.8
 90,91.0,Josh Gordon ,WR37,95.8
 91,92.0,Antonio Gates,TE9,96.2
@@ -165,7 +165,7 @@
 163,164.0,Tajae Sharpe,WR56,169.8
 164,165.0,Ryan Tannehill,QB23,172.7
 165,166.0,Mike Wallace,WR57,173.0
-166,167.0,Mohamed Sanu Sr.,WR58,173.8
+166,167.0,Mohamed Sanu,WR58,173.8
 167,168.0,Adam Vinatieri,K9,174.2
 168,169.0,Brandon McManus,K10,175.8
 169,170.0,Pittsburgh Steelers,DST10,152.6
@@ -181,7 +181,7 @@
 179,180.0,DeAndre Washington,RB54,186.2
 180,181.0,Pierre Garcon,WR60,187.2
 181,182.0,Eric Ebron,TE19,164.8
-182,183.0,Terrelle Pryor Sr.,WR61,188.2
+182,183.0,Terrelle Pryor,WR61,188.2
 183,184.0,Kyle Rudolph,TE20,189.2
 184,185.0,Las Vegas Raiders,DST11,189.7
 185,186.0,Cincinnati Bengals,DST12,167.4
@@ -316,7 +316,7 @@
 314,315.0,Jeremy McNichols,RB92,189.0
 315,316.0,Aaron Jones,RB93,191.0
 316,317.0,Luke Willson,TE37,276.3
-317,318.0,Benny Cunningham Jr.,RB94,247.5
+317,318.0,Benny Cunningham,RB94,247.5
 318,319.0,Trevor Siemian,QB36,274.8
 319,320.0,Quincy Enunwa,WR98,195.0
 320,321.0,D'Onta Foreman,RB95,200.0
@@ -337,7 +337,7 @@
 335,336.0,San Francisco 49ers,DST30,259.0
 336,337.0,Deshaun Watson,QB37,218.0
 337,338.0,Kenjon Barner,RB99,221.0
-338,339.0,Wayne Gallman Jr.,RB100,221.0
+338,339.0,Wayne Gallman,RB100,221.0
 339,340.0,Quinton Patton,WR103,222.0
 340,341.0,Robert Turbin,RB101,262.0
 341,342.0,Jaelen Strong,WR104,263.5
@@ -370,7 +370,7 @@
 368,369.0,Dontrelle Inman,WR114,284.0
 369,370.0,Dennis Pitta,TE45,307.0
 370,371.0,Brandon Bolden,RB112,308.5
-371,372.0,Paul Richardson Jr.,WR115,268.0
+371,372.0,Paul Richardson,WR115,268.0
 372,373.0,Lance Dunbar,RB113,285.0
 373,374.0,Caleb Sturgis,K31,300.0
 374,375.0,Cleveland Browns,DST32,285.5
@@ -415,7 +415,7 @@
 413,414.0,Devin Hester,WR133,307.0
 414,415.0,Case Keenum,QB45,311.0
 415,416.0,Nelson Spruce,WR134,312.0
-416,417.0,Jakeem Grant Sr.,WR135,318.0
+416,417.0,Jakeem Grant,WR135,318.0
 417,418.0,Josh McCown,QB46,319.0
 418,419.0,Aaron Burbridge,WR136,320.0
 419,420.0,Darius Jackson,RB124,321.0

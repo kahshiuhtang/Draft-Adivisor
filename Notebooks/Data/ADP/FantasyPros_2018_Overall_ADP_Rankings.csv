@@ -10,7 +10,7 @@
 8,9.0,Kareem Hunt,RB8,9.0
 9,10.0,DeAndre Hopkins,WR2,10.2
 10,11.0,Melvin Gordon,RB9,10.4
-11,12.0,dell Beckham Jr. O,WR3,12.0
+11,12.0,Odell Beckham Jr. ,WR3,12.0
 12,13.0,Dalvin Cook,RB10,13.6
 13,14.0,Julio Jones,WR4,14.4
 14,15.0,Christian McCaffrey,RB11,15.0
@@ -51,7 +51,7 @@
 49,50.0,Josh Gordon ,WR21,50.8
 50,51.0,Mark Ingram,RB22,52.0
 51,52.0,Allen Robinson,WR22,54.2
-52,53.0,Marvin Jones Jr.,WR23,54.6
+52,53.0,Marvin Jones,WR23,54.6
 53,54.0,Golden Tate,WR24,54.8
 54,55.0,Chris Hogan,WR25,57.4
 55,56.0,Cam Newton ,QB5,58.8
@@ -104,7 +104,7 @@
 102,103.0,Nelson Agholor,WR40,103.8
 103,104.0,Randall Cobb,WR41,104.6
 104,105.0,Jamison Crowder,WR42,105.0
-105,106.0,Duke Johnson Jr.,RB40,107.4
+105,106.0,Duke Johnson,RB40,107.4
 106,107.0,Jared Goff,QB15,111.6
 107,108.0,Sterling Shepard,WR43,112.4
 108,109.0,David Njoku,TE11,114.2
@@ -129,7 +129,7 @@
 127,128.0,DJ Moore,WR50,135.6
 128,129.0,George Kittle,TE13,136.0
 129,130.0,Latavius Murray,RB48,137.0
-130,131.0,Keelan Cole Sr.,WR51,137.4
+130,131.0,Keelan Cole,WR51,137.4
 131,132.0,Corey Clement,RB49,138.6
 132,133.0,Ty Montgomery,RB50,139.2
 133,134.0,Tyler Eifert ,TE14,140.0
@@ -149,7 +149,7 @@
 147,148.0,Tyler Lockett,WR55,158.4
 148,149.0,Jordan Wilkins,RB54,162.4
 149,150.0,Minnesota Vikings,DST3,111.0
-150,151.0,Mohamed Sanu Sr.,WR56,163.4
+150,151.0,Mohamed Sanu,WR56,163.4
 151,152.0,Jameis Winston,QB21,166.6
 152,153.0,James Conner,RB55,167.6
 153,154.0,Wil Lutz,K4,167.6
@@ -200,7 +200,7 @@
 198,199.0,Ted Ginn Jr.,WR68,186.0
 199,200.0,T.J. Yeldon,RB62,186.3
 200,201.0,Blake Bortles,QB26,187.0
-201,202.0,Paul Richardson Jr. ,WR69,188.8
+201,202.0,Paul Richardson,WR69,188.8
 202,203.0,Robert Kelley,RB63,189.3
 203,204.0,John Ross,WR70,189.5
 204,205.0,Mike Gesicki,TE22,189.5
@@ -223,7 +223,7 @@
 221,222.0,Brandon McManus,K17,235.0
 222,223.0,Josh Lambo,K18,236.0
 223,224.0,Kansas City Chiefs,DST16,196.7
-224,225.0,John Kelly Jr.,RB65,241.3
+224,225.0,John Kelly,RB65,241.3
 225,226.0,Samaje Perine,RB66,199.7
 226,227.0,Javorius Allen,RB67,200.3
 227,228.0,Tennessee Titans,DST17,205.7
@@ -266,7 +266,7 @@
 264,265.0,Ryan Grant ,WR85,268.0
 265,266.0,Nick Foles,QB35,268.3
 266,267.0,Jonathan Stewart,RB75,269.3
-267,268.0,Wayne Gallman Jr.,RB76,273.3
+267,268.0,Wayne Gallman,RB76,273.3
 268,269.0,Cordarrelle Patterson,RB77,276.7
 269,270.0,Ameer Abdullah,RB78,277.0
 270,271.0,Travis Benjamin,WR86,277.7
@@ -275,7 +275,7 @@
 273,274.0,Josh Rosen,QB36,283.0
 274,275.0,Nick Vannett,TE32,283.3
 275,276.0,Jermaine Kearse,WR87,283.7
-276,277.0,Terrelle Pryor Sr.,WR88,241.5
+276,277.0,Terrelle Pryor,WR88,241.5
 277,278.0,Sebastian Janikowski,K22,284.7
 278,279.0,Brett Maher,K23,288.7
 279,280.0,Ka'imi Fairbairn,K24,249.5
@@ -314,7 +314,7 @@
 312,313.0,Mike Gillislee,RB84,296.0
 313,314.0,J'Mon Moore,WR99,296.5
 314,315.0,Washington Commanders,DST28,298.5
-315,316.0,DJ Chark Jr.,WR100,298.5
+315,316.0,DJ Chark,WR100,298.5
 316,317.0,Laquon Treadwell,WR101,300.0
 317,318.0,Tampa Bay Buccaneers,DST29,301.0
 318,319.0,Roberto Aguayo,K28,301.5
@@ -389,7 +389,7 @@
 387,388.0,Shane Vereen,RB109,339.0
 388,389.0,Troymaine Pope,RB110,339.0
 389,390.0,Zane Gonzalez,K34,340.0
-390,391.0,De'Angelo Henderson Sr.,RB111,343.0
+390,391.0,De'Angelo Henderson,RB111,343.0
 391,392.0,David Moore,WR125,344.0
 392,393.0,Johnny Manziel,QB42,345.0
 393,394.0,Bo Scarbrough,RB112,345.0

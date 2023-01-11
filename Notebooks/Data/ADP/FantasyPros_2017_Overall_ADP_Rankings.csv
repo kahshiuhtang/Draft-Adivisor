@@ -30,7 +30,7 @@
 28,29.0,Lamar Miller,RB13,30.6
 29,30.0,Tom Brady,QB2,30.8
 30,31.0,Keenan Allen,WR15,32.6
-31,32.0,Terrelle Pryor Sr.,WR16,33.4
+31,32.0,Terrelle Pryor,WR16,33.4
 32,33.0,Isaiah Crowell,RB14,33.8
 33,34.0,Dalvin Cook,RB15,34.2
 34,35.0,Marshawn Lynch,RB16,35.8
@@ -91,7 +91,7 @@
 89,90.0,Derrick Henry,RB34,90.0
 90,91.0,Eric Decker,WR37,90.4
 91,92.0,Randall Cobb,WR38,90.6
-92,93.0,Duke Johnson Jr.,RB35,92.8
+92,93.0,Duke Johnson,RB35,92.8
 93,94.0,Tyrell Williams,WR39,93.0
 94,95.0,Terrance West,RB36,95.4
 95,96.0,Andrew Luck,QB11,99.6
@@ -107,7 +107,7 @@
 105,106.0,Dak Prescott,QB13,109.8
 106,107.0,Matthew Stafford,QB14,113.6
 107,108.0,Thomas Rawls,RB41,114.2
-108,109.0,Marvin Jones Jr.,WR43,117.2
+108,109.0,Marvin Jones,WR43,117.2
 109,110.0,Jonathan Stewart,RB42,117.6
 110,111.0,Rishard Matthews,WR44,119.6
 111,112.0,Philip Rivers,QB15,120.4
@@ -170,7 +170,7 @@
 168,169.0,Shane Vereen,RB56,177.5
 169,170.0,Robbie Anderson,WR60,144.7
 170,171.0,Carolina Panthers,DST9,145.7
-171,172.0,Mohamed Sanu Sr.,WR61,180.5
+171,172.0,Mohamed Sanu,WR61,180.5
 172,173.0,Adam Vinatieri,K6,147.3
 173,174.0,Kenny Stills,WR62,181.8
 174,175.0,Joe Flacco,QB21,183.8
@@ -223,7 +223,7 @@
 221,222.0,Cameron Meredith,WR77,224.5
 222,223.0,Los Angeles Chargers,DST17,216.3
 223,224.0,Blair Walsh,K12,216.3
-224,225.0,De'Angelo Henderson Sr.,RB71,218.0
+224,225.0,De'Angelo Henderson,RB71,218.0
 225,226.0,ArDarius Stewart,WR78,218.3
 226,227.0,Chris Boswell,K13,218.3
 227,228.0,Mike Williams,WR79,218.7
@@ -239,7 +239,7 @@
 237,238.0,Curtis Samuel,WR83,230.3
 238,239.0,Charles Clay,TE26,234.7
 239,240.0,Austin Seferian-Jenkins,TE27,230.7
-240,241.0,Paul Richardson Jr.,WR84,230.7
+240,241.0,Paul Richardson,WR84,230.7
 241,242.0,Chris Conley,WR85,231.0
 242,243.0,Stephen Hauschka,K15,207.0
 243,244.0,Kenyan Drake,RB76,207.0
@@ -304,7 +304,7 @@
 302,303.0,Phillip Dorsett,WR104,268.5
 303,304.0,Nick Folk,K21,246.0
 304,305.0,Jermaine Gresham,TE35,246.0
-305,306.0,Wayne Gallman Jr.,RB93,248.0
+305,306.0,Wayne Gallman,RB93,248.0
 306,307.0,Andre Roberts,WR105,250.0
 307,308.0,Green Bay Packers,DST21,252.0
 308,309.0,Ryan Mathews,RB94,252.0
@@ -388,9 +388,9 @@
 386,387.0,Corey Clement,RB110,346.0
 387,388.0,Rod Smith,RB111,347.0
 388,389.0,Alfred Blue,RB112,348.0
-389,390.0,Benny Cunningham Jr.,RB113,349.0
+389,390.0,Benny Cunningham,RB113,349.0
 390,391.0,Andre Holmes,WR126,350.0
-391,392.0,Jakeem Grant Sr.,WR127,351.0
+391,392.0,Jakeem Grant,WR127,351.0
 392,393.0,Jake Butt,TE46,352.0
 393,394.0,Dwayne Harris,WR128,353.0
 394,395.0,Malcolm Brown,RB114,354.0

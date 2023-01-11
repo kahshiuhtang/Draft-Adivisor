@@ -56,7 +56,7 @@
 54,55.0,Courtland Sutton,WR21,55.3
 55,56.0,Keenan Allen,WR22,56.3
 56,57.0,Stefon Diggs,WR23,57.3
-57,58.0,DJ Chark Jr.,WR24,57.3
+57,58.0,DJ Chark,WR24,57.3
 58,59.0,Kyler Murray,QB6,58.0
 59,60.0,Cam Akers,RB26,59.3
 60,61.0,Terry McLaurin,WR25,59.7
@@ -90,7 +90,7 @@
 88,89.0,Kerryon Johnson,RB34,86.7
 89,90.0,Sony Michel,RB35,88.3
 90,91.0,Jared Cook,TE9,88.3
-91,92.0,Marvin Jones Jr.,WR37,91.0
+91,92.0,Marvin Jones,WR37,91.0
 92,93.0,Phillip Lindsay,RB36,92.3
 93,94.0,Carson Wentz,QB12,94.7
 94,95.0,James White,RB37,98.3
@@ -134,11 +134,11 @@
 132,133.0,Golden Tate,WR51,141.7
 133,134.0,T.J. Hockenson,TE14,142.0
 134,135.0,Chase Edmonds,RB46,142.3
-135,136.0,Darrell Henderson Jr.,RB47,110.0
+135,136.0,Darrell Henderson,RB47,110.0
 136,137.0,Mike Gesicki,TE15,143.3
 137,138.0,Preston Williams,WR52,143.3
 138,139.0,Ke'Shawn Vaughn,RB48,112.5
-139,140.0,Duke Johnson Jr.,RB49,145.3
+139,140.0,Duke Johnson,RB49,145.3
 140,141.0,DeSean Jackson,WR53,146.7
 141,142.0,Sammy Watkins,WR54,146.7
 142,143.0,Joe Burrow,QB19,147.3
@@ -258,7 +258,7 @@
 256,257.0,New York Jets,DST22,241.0
 257,258.0,Seattle Seahawks,DST23,242.0
 258,259.0,Gus Edwards,RB78,243.0
-259,260.0,Mohamed Sanu Sr.,WR84,246.0
+259,260.0,Mohamed Sanu,WR84,246.0
 260,261.0,Michael Badgley,K16,248.0
 261,262.0,Giovani Bernard,RB79,251.0
 262,263.0,Chase Claypool,WR85,252.0
@@ -301,7 +301,7 @@
 299,300.0,Phillip Dorsett,WR95,301.0
 300,301.0,Josh Lambo ,K24,302.0
 301,302.0,Tua Tagovailoa,QB34,304.0
-302,303.0,Steven Sims Jr.,WR96,305.0
+302,303.0,Steven Sims,WR96,305.0
 303,304.0,Marquez Valdes-Scantling,WR97,306.0
 304,305.0,Nelson Agholor,WR98,307.0
 305,306.0,Mitch Trubisky,QB35,308.0

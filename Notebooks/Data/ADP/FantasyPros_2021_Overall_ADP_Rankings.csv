@@ -56,7 +56,7 @@
 54,55.0,Tyler Lockett,WR20,55.0
 55,56.0,Raheem Mostert,RB24,55.0
 56,57.0,DJ Moore,WR21,55.5
-57,58.0,Darrell Henderson Jr.,RB25,57.0
+57,58.0,Darrell Henderson,RB25,57.0
 58,59.0,Justin Herbert,QB8,57.5
 59,60.0,Diontae Johnson,WR22,59.3
 60,61.0,Javonte Williams,RB26,61.3
@@ -92,7 +92,7 @@
 90,91.0,Tyler Boyd,WR37,91.8
 91,92.0,James Conner,RB36,92.5
 92,93.0,Noah Fant,TE9,94.8
-93,94.0,DJ Chark Jr.,WR38,96.3
+93,94.0,DJ Chark,WR38,96.3
 94,95.0,Michael Carter,RB37,96.5
 95,96.0,Jalen Hurts,QB12,97.0
 96,97.0,Brandin Cooks,WR39,98.8
@@ -137,7 +137,7 @@
 135,136.0,Nyheim Hines,RB44,138.0
 136,137.0,Jonnu Smith,TE14,138.3
 137,138.0,Justin Fields,QB17,140.3
-138,139.0,Marvin Jones Jr.,WR54,140.5
+138,139.0,Marvin Jones,WR54,140.5
 139,140.0,Alexander Mattison,RB45,144.0
 140,141.0,Cole Beasley,WR55,144.5
 141,142.0,Trey Lance,QB18,145.0
@@ -190,7 +190,7 @@
 188,189.0,Jason Myers,K12,208.5
 189,190.0,Derek Carr,QB25,184.3
 190,191.0,Marlon Mack,RB57,186.3
-191,192.0,Tony Jones Jr.,RB58,186.3
+191,192.0,Tony Jones,RB58,186.3
 192,193.0,A.J. Green,WR65,187.7
 193,194.0,Amon-Ra St. Brown,WR66,188.3
 194,195.0,Randall Cobb,WR67,188.7
@@ -214,7 +214,7 @@
 212,213.0,Rashod Bateman,WR71,198.5
 213,214.0,Ty Johnson,RB65,202.5
 214,215.0,Jamison Crowder,WR72,206.5
-215,216.0,Wayne Gallman Jr.,RB66,209.5
+215,216.0,Wayne Gallman,RB66,209.5
 216,217.0,T.Y. Hilton,WR73,209.5
 217,218.0,J.J. Taylor,RB67,211.0
 218,219.0,Allen Lazard,WR74,212.5
@@ -317,7 +317,7 @@
 315,316.0,Phillip Andersen,K20,278.0
 316,317.0,Eno Benjamin,RB93,278.0
 317,318.0,Isaiah Crowell,RB94,279.0
-318,319.0,Jeff Wilson Jr.,RB95,279.0
+318,319.0,Jeff Wilson,RB95,279.0
 319,320.0,Jeremy Kerley,WR102,280.0
 320,321.0,Austin MacGinnis,K21,280.0
 321,322.0,Broc Rutter,QB39,281.0
@@ -377,14 +377,14 @@
 375,376.0,Dyami Brown,WR120,345.0
 376,377.0,Albert Wilson,WR121,346.0
 377,378.0,Chase McLaughlin,K32,347.0
-378,379.0,Donald Parham Jr.,TE47,348.0
+378,379.0,Donald Parham,TE47,348.0
 379,380.0,Dustin Hopkins,K33,349.0
 380,381.0,Kendrick Bourne,WR122,350.0
 381,382.0,Marcus Mariota,QB43,351.0
 382,383.0,Antonio Gandy-Golden,WR123,352.0
 383,384.0,Van Jefferson,WR124,353.0
 384,385.0,Detroit Lions,DST30,354.0
-385,386.0,Keelan Cole Sr.,WR125,355.0
+385,386.0,Keelan Cole,WR125,355.0
 386,387.0,Tutu Atwell,WR126,356.0
 387,388.0,James Washington,WR127,357.0
 388,389.0,N'Keal Harry,WR128,358.0
@@ -413,7 +413,7 @@
 411,412.0,Jesper Horsted,TE48,382.0
 412,413.0,Peyton Barber,RB111,383.0
 413,414.0,Eddy Pineiro,K40,384.0
-414,415.0,Demetric Felton Jr.,RB112,385.0
+414,415.0,Demetric Felton,RB112,385.0
 415,416.0,Cornell Powell,WR141,386.0
 416,417.0,Cam Akers,RB113,388.0
 417,0.0,0,0,0.0

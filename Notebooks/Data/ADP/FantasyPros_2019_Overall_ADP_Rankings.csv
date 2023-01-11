@@ -333,7 +333,7 @@
 331,332.0,Devontae Booker,RB91,308.0
 332,333.0,Chris Hogan,WR111,310.0
 333,334.0,Laquon Treadwell,WR112,313.0
-334,335.0,,1,314.0
+334,335.0,0,1,314.0
 335,336.0,Kendrick Bourne,WR113,315.0
 336,337.0,Ricky Seals-Jones,TE37,316.0
 337,338.0,Case Keenum,QB35,317.0
@@ -402,5 +402,5 @@
 400,401.0,Foster Moreau,TE52,403.0
 401,402.0,Bryce Love,RB109,408.0
 402,403.0,D'Onta Foreman,RB110,409.0
-403,,,,
-404,,,,
+403,0.0,0,0,0.0
+404,0.0,0,0,0.0
